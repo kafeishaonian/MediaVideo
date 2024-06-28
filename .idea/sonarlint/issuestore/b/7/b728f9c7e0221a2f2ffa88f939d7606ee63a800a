@@ -1,0 +1,37 @@
+
+o	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µí×õúÿÿÿÿ8ğ¸İ‚2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¼û½úÿÿÿÿ8ş¸İ‚2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™õŠóøÿÿÿÿ8€¹İ‚2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÙÀªúÿÿÿÿ8¹İ‚2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şéú—øÿÿÿÿ8‚¹İ‚2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¶³Şûÿÿÿÿ8ƒ¹İ‚2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òô“ıøÿÿÿÿ8„¹İ‚2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÑÜúÿÿÿÿ8†¹İ‚2
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒŠùÌ8‡¹İ‚2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¡…Íşÿÿÿÿ8ˆ¹İ‚2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ç¯ÿÿÿÿÿ8ˆ¹İ‚2
+j	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡´Å»8‰¹İ‚2
+U
+java:S1144
+"3Remove this unused private "_setDataSource" method.(µí×õúÿÿÿÿ8•¹İ‚2
+M
+java:S1144"+Remove this unused private "_start" method.(™õŠóøÿÿÿÿ8•¹İ‚2
+L
+java:S1144"*Remove this unused private "_stop" method.(”ÙÀªúÿÿÿÿ8–¹İ‚2
+M
+java:S1144"+Remove this unused private "_pause" method.(şéú—øÿÿÿÿ8–¹İ‚2
+Q
+java:S1144"/Remove this unused private "_isPlaying" method.(ø¶³Şûÿÿÿÿ8–¹İ‚2
+N
+java:S1144",Remove this unused private "_seekTo" method.(Òô“ıøÿÿÿÿ8—¹İ‚2
+Z
+java:S1144"8Remove this unused private "_getCurrentPosition" method.(âÑÜúÿÿÿÿ8—¹İ‚2
+N
+java:S1144"1Remove this unused private "_getDuration" method.(ƒŠùÌ8˜¹İ‚2
+O
+java:S1144"-Remove this unused private "_release" method.(Ò¡…Íşÿÿÿÿ8˜¹İ‚2
+Q
+java:S1144"/Remove this unused private "_setVolume" method.(­ç¯ÿÿÿÿÿ8˜¹İ‚2
+G
+java:S1144 "*Remove this unused private "_init" method.(‡´Å»8™¹İ‚2
