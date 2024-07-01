@@ -5,6 +5,7 @@
 #include "OpenSLAudioPlay.h"
 #include <pthread.h>
 
+#define LOGI(FORMAT, ...) __android_log_print(ANDROID_LOG_INFO,"DevYK",FORMAT,##__VA_ARGS__);
 #define LOGE(FORMAT, ...) __android_log_print(ANDROID_LOG_ERROR,"DevYK",FORMAT,##__VA_ARGS__);
 
 void playerCallback(SLAndroidSimpleBufferQueueItf bq, void *context);
