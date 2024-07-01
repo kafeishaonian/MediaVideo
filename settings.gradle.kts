@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MediaVideo"
 include(":app")
-include(":video")
+include(":audioOrVideoDemo")
