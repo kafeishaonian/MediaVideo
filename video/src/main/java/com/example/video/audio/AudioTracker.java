@@ -1,4 +1,4 @@
-package com.example.video;
+package com.example.video.audio;
 
 import android.content.Context;
 import android.media.AudioAttributes;

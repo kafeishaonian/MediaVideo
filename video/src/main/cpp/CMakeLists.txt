@@ -32,6 +32,8 @@ set_target_properties(ffmpeg PROPERTIES IMPORTED_LOCATION ${ffmpeg_lib_dir}/libf
 
 add_library(${CMAKE_PROJECT_NAME} SHARED
         video.cpp
+        opensl/Audio_SLES_Native.cpp
+        opensl/OpenSLAudioPlay.cpp
         BaseDecoder.cpp)
 
 
