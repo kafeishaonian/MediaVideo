@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "MediaVideo"
 include(":app")
 include(":audioOrVideoDemo")
+include(":fdkaac_audio")
