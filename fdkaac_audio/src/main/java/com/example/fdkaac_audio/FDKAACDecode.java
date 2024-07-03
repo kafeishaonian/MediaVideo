@@ -15,7 +15,7 @@ public class FDKAACDecode{
     public native int initWithADFormat();
 
 
-    public native int initWithRAWFormat(byte[] specInfo, byte[] size);
+    public native int initWithRAWFormat(byte[] specInfo, int size);
 
     public native byte[] decode(byte[] byteArray, int length);
 
