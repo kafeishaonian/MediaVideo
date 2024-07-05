@@ -17,3 +17,4 @@ rootProject.name = "MediaVideo"
 include(":app")
 include(":audioOrVideoDemo")
 include(":fdkaac_audio")
+include(":x264_video_encode")
