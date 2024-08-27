@@ -1,3 +1,5 @@
 
-s
-java:S1450"VRemove the "binding" field and declare it as a local variable in the relevant methods.(¶ÃÊ8çà‹‰2
+l
+java:S1450"VRemove the "binding" field and declare it as a local variable in the relevant methods.(¶ÃÊ
+G
+java:S1602",Remove useless curly braces around statement(”ºÙ£üÿÿÿÿ

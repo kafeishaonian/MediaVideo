@@ -3,8 +3,6 @@ S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 Q
 !audioOrVideoDemo/build.gradle.kts,4/4/44b5bf87a43c9531ae48832f5f0243b663d882db
-D
-app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
 C
 settings.gradle.kts,7/4/749edfcc96398253e5b3416184e95c46621da850
 u
@@ -41,8 +39,6 @@ d
 4x264_video_encode/src/main/cpp/x264_video_encode.cpp,0/e/0e3d804051c9296cf3bac1269b33061353c71584
 t
 DaudioOrVideoDemo/src/main/java/com/example/video/mediacodec/aaa.java,5/4/5423b62799165a9389735d2cae4bbe7d17222bc7
-j
-:app/src/main/java/com/example/mediavideo/MainActivity.java,3/4/3459bed1f0cd4ecc0d70c99bfed4bc990ee542c7
 €
 PaudioOrVideoDemo/src/main/java/com/example/video/mediacodec/base/AudioUtils.java,7/3/7348cb3f66420c4215cf3446c12b8b8edcf76088
 …
@@ -55,3 +51,13 @@ QaudioOrVideoDemo/src/main/java/com/example/video/mediacodec/audio/AACEncoder.ja
 TaudioOrVideoDemo/src/main/java/com/example/video/mediacodec/base/BaseAudioCodec.java,6/1/6173291f9830ba54fd0b89d1c3b5c78df107b634
 …
 UaudioOrVideoDemo/src/main/java/com/example/video/mediacodec/audio/AudioProcessor.java,4/0/40953cbdb1631fd88ee506c3113d365b7a9a57bb
+j
+:app/src/main/java/com/example/mediavideo/MainActivity.java,3/4/3459bed1f0cd4ecc0d70c99bfed4bc990ee542c7
+D
+app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
+l
+<Video/src/main/java/com/example/video/utils/ScreenUtils.java,d/3/d3e952353029e538983cd6b016019073594ade83
+w
+GVideo/src/main/java/com/example/video/activity/CameraVideoActivity.java,4/a/4a404baab9ba309275cd1c77e50234137b29fe25
+v
+FVideo/src/main/java/com/example/video/controller/CameraController.java,6/0/60d9de8a6fcce7602cbbd6f8f37390c079378fdc
