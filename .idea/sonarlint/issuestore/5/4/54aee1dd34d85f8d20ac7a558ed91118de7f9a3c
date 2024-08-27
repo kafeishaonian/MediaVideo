@@ -1,0 +1,91 @@
+
+s
+java:S1104"]Make DEFAULT_FREQUENCY a static final constant or non-public and provide accessors if needed.(ÆåïË
+q
+java:S1104"[Make DEFAULT_MAX_BPS a static final constant or non-public and provide accessors if needed.(±æä“
+v
+java:S1104"[Make DEFAULT_MIN_BPS a static final constant or non-public and provide accessors if needed.(µî­•úÿÿÿÿ
+m
+java:S1104"XMake DEFAULT_ADTS a static final constant or non-public and provide accessors if needed.(–ú—
+s
+java:S1104"]Make DEFAULT_CODE_TYPE a static final constant or non-public and provide accessors if needed.(Ü´£¸
+n
+java:S1104"XMake DEFAULT_MIME a static final constant or non-public and provide accessors if needed.(­ÄåÁ
+}
+java:S1104"bMake DEFAULT_AUDIO_ENCODING a static final constant or non-public and provide accessors if needed.(ÈÏşÿÿÿÿ
+z
+java:S1104 "_Make DEFAULT_AAC_PROFILE a static final constant or non-public and provide accessors if needed.(Ê±šÄÿÿÿÿÿ
+|
+java:S1104!"aMake DEFAULT_CHANNEL_COUNT a static final constant or non-public and provide accessors if needed.(¯ñ©ıÿÿÿÿ
+r
+java:S1104""WMake DEFAULT_AEC a static final constant or non-public and provide accessors if needed.(Šşˆøÿÿÿÿ
+t
+java:S1104$"_Make DEFAULT_MEDIA_CODEC a static final constant or non-public and provide accessors if needed.(„óÕH
+l
+java:S1104:"VMake mediaCodec a static final constant or non-public and provide accessors if needed.(Ì£´°
+h
+java:S1104;"RMake minBps a static final constant or non-public and provide accessors if needed.(¹ÉŸ
+m
+java:S1104<"RMake maxBps a static final constant or non-public and provide accessors if needed.(ãû“Œÿÿÿÿÿ
+j
+java:S1104="UMake frequency a static final constant or non-public and provide accessors if needed.(õ†ş
+j
+java:S1104>"TMake encoding a static final constant or non-public and provide accessors if needed.(Š€Îğ
+s
+java:S1104?"XMake channelCount a static final constant or non-public and provide accessors if needed.(Çõı‹ıÿÿÿÿ
+k
+java:S1104@"PMake adts a static final constant or non-public and provide accessors if needed.(¬×²öùÿÿÿÿ
+k
+java:S1104A"PMake mime a static final constant or non-public and provide accessors if needed.(——ÆÔÿÿÿÿÿ
+j
+java:S1104B"TMake codeType a static final constant or non-public and provide accessors if needed.(â¹ñÍ
+l
+java:S1104C"VMake aacProfile a static final constant or non-public and provide accessors if needed.(ù·Ê
+e
+java:S1104D"OMake aec a static final constant or non-public and provide accessors if needed.(š¼Ó™
+M
+java:S1444"7Make this "public static DEFAULT_FREQUENCY" field final(ÆåïË
+K
+java:S1444"5Make this "public static DEFAULT_MAX_BPS" field final(±æä“
+P
+java:S1444"5Make this "public static DEFAULT_MIN_BPS" field final(µî­•úÿÿÿÿ
+G
+java:S1444"2Make this "public static DEFAULT_ADTS" field final(–ú—
+M
+java:S1444"7Make this "public static DEFAULT_CODE_TYPE" field final(Ü´£¸
+H
+java:S1444"2Make this "public static DEFAULT_MIME" field final(­ÄåÁ
+W
+java:S1444"<Make this "public static DEFAULT_AUDIO_ENCODING" field final(ÈÏşÿÿÿÿ
+T
+java:S1444 "9Make this "public static DEFAULT_AAC_PROFILE" field final(Ê±šÄÿÿÿÿÿ
+V
+java:S1444!";Make this "public static DEFAULT_CHANNEL_COUNT" field final(¯ñ©ıÿÿÿÿ
+L
+java:S1444""1Make this "public static DEFAULT_AEC" field final(Šşˆøÿÿÿÿ
+N
+java:S1444$"9Make this "public static DEFAULT_MEDIA_CODEC" field final(„óÕH
+r
+java:S3008"\Rename this field "DEFAULT_FREQUENCY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆåïË
+p
+java:S3008"ZRename this field "DEFAULT_MAX_BPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±æä“
+u
+java:S3008"ZRename this field "DEFAULT_MIN_BPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µî­•úÿÿÿÿ
+l
+java:S3008"WRename this field "DEFAULT_ADTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ú—
+r
+java:S3008"\Rename this field "DEFAULT_CODE_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü´£¸
+m
+java:S3008"WRename this field "DEFAULT_MIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÄåÁ
+|
+java:S3008"aRename this field "DEFAULT_AUDIO_ENCODING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÏşÿÿÿÿ
+y
+java:S3008 "^Rename this field "DEFAULT_AAC_PROFILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê±šÄÿÿÿÿÿ
+{
+java:S3008!"`Rename this field "DEFAULT_CHANNEL_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ñ©ıÿÿÿÿ
+q
+java:S3008""VRename this field "DEFAULT_AEC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šşˆøÿÿÿÿ
+s
+java:S3008$"^Rename this field "DEFAULT_MEDIA_CODEC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„óÕH
+F
+java:S1172„"/Remove this unused method parameter "codeType".(Ö²Ä

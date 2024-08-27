@@ -1,0 +1,48 @@
+
+\
+java:S2184¦"@Cast one of the operands of this integer division to a "double".(šÎË¯ûÿÿÿÿ
+W
+java:S2184´"@Cast one of the operands of this integer division to a "double".(ïŸÜ©
+]
+java:S2184Á"FCast one of the operands of this multiplication operation to a "long".(ãºÐñ
+d
+java:S2184Å"FCast one of the operands of this multiplication operation to a "long".(Üæíñ8´ÖÏ´Š2
+e
+java:S2259¼"IA "NullPointerException" could be thrown; "previewSize" is nullable here.(‘ò‹òýÿÿÿÿ
+x
+java:S1450-"]Remove the "mVideoFilePage" field and declare it as a local variable in the relevant methods.(–ãþéûÿÿÿÿ
+E
+java:S1197@"*Move the array designators [] to the type.(ÄÿÃèÿÿÿÿÿ
+n
+java:S3252E"XUse static access with "android.hardware.camera2.CameraMetadata" for "LENS_FACING_BACK".(­ÄÕŒ
+Q
+java:S1874„"5Remove this use of "MediaRecorder"; it is deprecated.(î÷ÿçüÿÿÿÿ
+Y	java:S125¡"<This block of commented-out lines of code should be removed.(›’ ²8¤æÍ´Š2
+D
+java:S1905¦"(Remove this unnecessary cast to "float".(šÎË¯ûÿÿÿÿ
+Z
+java:S1155«">Use isEmpty() to check whether the collection is empty or not.(²þª²ûÿÿÿÿ
+?
+java:S1905´"(Remove this unnecessary cast to "float".(ïŸÜ©
+^	java:S125Ñ"<This block of commented-out lines of code should be removed.(¯›÷ûÿÿÿÿ8°äÆ´Š2
+^	java:S125Ó"<This block of commented-out lines of code should be removed.(¨þù²þÿÿÿÿ8çëÉ´Š2
+^	java:S125Õ"<This block of commented-out lines of code should be removed.(§­¿šøÿÿÿÿ8ýÍþ²Š2
+^	java:S125Ú"<This block of commented-out lines of code should be removed.(”ïã³øÿÿÿÿ8ÿÍþ²Š2
+S
+java:S1874Û"<Remove this use of "createCaptureSession"; it is deprecated.(°õœ½
+˜
+java:S1186é"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³Ã¼“
+m
+java:S1128"KRemove this unused import 'android.hardware.camera2.CameraAccessException'.(Ô½¨µýÿÿÿÿ8­æÍ´Š2
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8­æÍ´Š2
+R
+java:S1128"5Remove this unused import 'android.view.SurfaceView'.(ºÂÓ‹8­æÍ´Š2
+b
+java:S1128"@Remove this unused import 'com.example.video.utils.ScreenUtils'.(óÓÜ÷ýÿÿÿÿ8Æ×Ï´Š2
+[
+java:S3398Ð"?Move this method into the anonymous class declared at line 108.(à‚¿äùÿÿÿÿ
+I
+java:S1068'"'Remove this unused "TAG" private field.(¨ûÜÊÿÿÿÿÿ8»“À´Š2
+Z
+java:S1144‚"7Remove this unused private "setupMediaRecorder" method.(á±ò¼ýÿÿÿÿ8·äÆ´Š2

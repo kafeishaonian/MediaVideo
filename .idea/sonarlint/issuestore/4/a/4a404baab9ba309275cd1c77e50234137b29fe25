@@ -1,0 +1,12 @@
+
+t	java:S115)"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬ÚíÌüÿÿÿÿ
+u
+java:S1450"ZRemove the "mController" field and declare it as a local variable in the relevant methods.(¸¶Ÿ…þÿÿÿÿ
+p
+java:S1450"ZRemove the "mOpenCamera" field and declare it as a local variable in the relevant methods.(õˆäÕ
+œ
+java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬ Õáþÿÿÿÿ
+—
+java:S1186Y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îÄ´Õ
+=
+java:S1068"'Remove this unused "TAG" private field.(ö×ÃÕ

@@ -1,0 +1,31 @@
+
+{
+java:S1104%"`Make AUDIO_CHANNEL_CONFIG a static final constant or non-public and provide accessors if needed.(‚ˆÖ‚ıÿÿÿÿ
+x
+java:S1104+"]Make SAMPLE_RATE_IN_HZ a static final constant or non-public and provide accessors if needed.(ÂÂÒæıÿÿÿÿ
+s
+java:S11043"XMake AUDIO_FROMAT a static final constant or non-public and provide accessors if needed.(øÒ¼øÿÿÿÿ
+n
+java:S1104<"XMake AUDIO_SOURCE a static final constant or non-public and provide accessors if needed.(ñ³è÷
+U
+java:S1444%":Make this "public static AUDIO_CHANNEL_CONFIG" field final(‚ˆÖ‚ıÿÿÿÿ
+R
+java:S1444+"7Make this "public static SAMPLE_RATE_IN_HZ" field final(ÂÂÒæıÿÿÿÿ
+M
+java:S14443"2Make this "public static AUDIO_FROMAT" field final(øÒ¼øÿÿÿÿ
+H
+java:S1444<"2Make this "public static AUDIO_SOURCE" field final(ñ³è÷
+N
+java:S2589d"8Remove this expression which always evaluates to "false"(ÕÆÚş
+z
+java:S3008%"_Rename this field "AUDIO_CHANNEL_CONFIG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ˆÖ‚ıÿÿÿÿ
+w
+java:S3008+"\Rename this field "SAMPLE_RATE_IN_HZ" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÂÒæıÿÿÿÿ
+r
+java:S30083"WRename this field "AUDIO_FROMAT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÒ¼øÿÿÿÿ
+m
+java:S3008<"WRename this field "AUDIO_SOURCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ³è÷
+U
+java:S1118":Add a private constructor to hide the implicit public one.(‹˜‹²üÿÿÿÿ
+r
+java:S3252V"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(ƒáö²ıÿÿÿÿ
